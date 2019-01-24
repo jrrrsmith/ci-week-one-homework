@@ -12,22 +12,25 @@ header {
 body {
 	margin: 0;
 	padding-top: 40px;
-	background-color: #111111;
-	color: #DCC48E;
+	background-color: #626943;
+	color:#dde6b9;
 	font-size: 16px;
-	font-family: 'Times New Roman', serif;
+	font-family: 'Franklin Gothic', sans-serif;
 }
 
 footer p {
 	margin-top: 40px;
+	color: #8a9266;
 }
 
 h1 {
 	font-size: 42px;
+	color: white;
 }
 
 h2 {
 	font-size: 22px;
+	color: #8a9266;
 }
 
 ul {
@@ -40,7 +43,7 @@ img {
 }
 
 a {
-	color: #DCC48E;
+	color: #dde6b9;
 }
 
 p {
@@ -49,14 +52,16 @@ p {
 
 .icon-container {
 	width: 120px;
-	margin-right: 40px;
+	margin-left: 100px;
 }
 
 .page-content {
 	justify-content: space-between;
 	margin-top: 100px;
-	background-color: #333333;
+	background-color: #363a25;
 }
+
+.page-title { color: #363a25;}
 
 .resume-section {
 	margin-bottom: 40px;
