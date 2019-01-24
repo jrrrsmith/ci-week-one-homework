@@ -7,15 +7,17 @@
 
 header {
 	align-items: center;
+	font-family: 'Eczar', serif;
+	font-size: 50px;
 }
 
 body {
 	margin: 0;
 	padding-top: 40px;
-	background-color: #111111;
-	color: #DCC48E;
-	font-size: 16px;
-	font-family: 'Times New Roman', serif;
+	background-color: #f2dfe8;
+	color: #7314d2;
+	font-size: 23px;
+	font-family: 'Gentium Basic', serif;
 }
 
 footer p {
@@ -24,14 +26,15 @@ footer p {
 
 h1 {
 	font-size: 42px;
+	
 }
 
 h2 {
-	font-size: 22px;
+	font-size: 30px;
 }
 
 ul {
-	padding-left: 20px;
+	padding-left: 60px;
 }
 
 img {
@@ -40,7 +43,7 @@ img {
 }
 
 a {
-	color: #DCC48E;
+	color: #7314d2;
 }
 
 p {
@@ -55,7 +58,7 @@ p {
 .page-content {
 	justify-content: space-between;
 	margin-top: 100px;
-	background-color: #333333;
+	background-color: #e9dff2;
 }
 
 .resume-section {
