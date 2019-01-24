@@ -7,19 +7,23 @@
 
 header {
 	align-items: center;
+	font-family: 'futura', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: #474747;
 }
 
 body {
 	margin: 0;
 	padding-top: 40px;
-	background-color: #111111;
-	color: #DCC48E;
+	background-color: #ffbcbc;
+	color: #fff;
 	font-size: 16px;
-	font-family: 'Times New Roman', serif;
+	font-family: 'futura', sans-serif;
 }
 
 footer p {
 	margin-top: 40px;
+	color: #474747;
+	font-family: 'futura', sans-serif;
 }
 
 h1 {
@@ -40,7 +44,7 @@ img {
 }
 
 a {
-	color: #DCC48E;
+	color: #fff;
 }
 
 p {
@@ -48,7 +52,7 @@ p {
 }
 
 .icon-container {
-	width: 120px;
+	width: 240px;
 	margin-right: 40px;
 }
 
