@@ -5,29 +5,39 @@
 	padding: 0 20px;
 }
 
-header {
+header { color: white;
 	align-items: center;
+	font-family: 'Open Sans', sans-serif;
+
 }
 
 body {
 	margin: 0;
 	padding-top: 40px;
 	background-color: #111111;
-	color: #DCC48E;
+	color: #edd465;
 	font-size: 16px;
-	font-family: 'Times New Roman', serif;
+	font-family: 'Open Sans', sans-serif;
+
 }
 
 footer p {
 	margin-top: 40px;
+	color: #edd465:
 }
 
-h1 {
+h1 {color: #edd465;
 	font-size: 42px;
+	font-family: 'Open Sans', sans-serif;
+
 }
 
-h2 {
-	font-size: 22px;
+h2 {color: #edd465;
+	font-size: 15px;
+	font-weight: normal;
+	padding-right: 30px;
+	font-family: 'Open Sans', sans-serif;
+
 }
 
 ul {
@@ -36,11 +46,15 @@ ul {
 
 img {
 	display: block;
-	width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+	width: 50%;
+
+
 }
 
 a {
-	color: #DCC48E;
+	color: #edd465;
 }
 
 p {
@@ -48,17 +62,18 @@ p {
 }
 
 .icon-container {
-	width: 120px;
+	width: 100%;
 	margin-right: 40px;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 
 .page-content {
 	justify-content: space-between;
 	margin-top: 100px;
-	background-color: #333333;
+	background-color: #black;
 }
 
 .resume-section {
 	margin-bottom: 40px;
 }
-
