@@ -1,6 +1,6 @@
 .wrap {
 	display: flex;
-	max-width: 1080px;
+	width: 80vw;
 	margin: 0 auto;
 	padding: 0 20px;
 }
@@ -11,11 +11,11 @@ header {
 
 body {
 	margin: 0;
-	padding-top: 50px;
 	background-color: rgb(214, 21, 21);
 	color: rgb(0, 0, 0);
 	font-size: 16px;
 	font-family: Arial, Helvetica, sans-serif;
+	width: 100vw;
 }
 
 footer p {
@@ -24,10 +24,8 @@ footer p {
 }
 
 h1 {
-	font-size: 93px;
+	font-size: 6vw;
 	color: white;
-	position: absolute;
-	top: 112px;
 }
 
 h2 {
@@ -58,7 +56,6 @@ p {
 
 .page-content {
 	justify-content: space-between;
-	margin-top: 80px;
 	background-color: white;
 }
 
