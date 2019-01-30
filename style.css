@@ -12,10 +12,13 @@ header {
 body {
 	margin: 0;
 	padding-top: 40px;
-	background-color: #111111;
-	color: #DCC48E;
+	background-color: #001528;
+	background:url(
+		data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAJUlEQVQoU2NkENX4z0AEYBxECveevs7gbKqJ4erB5EZcQUq0GwFmAA9jqe+rvQAAAABJRU5ErkJggg==
+		 ) repeat;
+	color: white;
 	font-size: 16px;
-	font-family: 'Times New Roman', serif;
+	font-family: 'Major Mono Display', monospace;
 }
 
 footer p {
@@ -23,15 +26,23 @@ footer p {
 }
 
 h1 {
-	font-size: 42px;
+	font-size: 40px;
+	color: #81C0E4;
 }
 
 h2 {
-	font-size: 22px;
+	font-size: 35px;
+	color: #E07755;
 }
 
 ul {
+	margin-left: 20px;
 	padding-left: 20px;
+}
+
+li {
+	font-family: 'News Cycle', sans-serif;
+	font-stretch: expanded;
 }
 
 img {
@@ -40,7 +51,7 @@ img {
 }
 
 a {
-	color: #DCC48E;
+	color: #0BB5FF;
 }
 
 p {
@@ -55,7 +66,7 @@ p {
 .page-content {
 	justify-content: space-between;
 	margin-top: 100px;
-	background-color: #333333;
+	background-color: #60789A;
 }
 
 .resume-section {
